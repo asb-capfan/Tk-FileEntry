@@ -69,6 +69,8 @@ See C<Tk::options> for more details on C<-variable>.
 
 Defines the label text. Defaults to I<File:>.
 
+=back
+
 =cut
 
 
