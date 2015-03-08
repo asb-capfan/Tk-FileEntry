@@ -4,6 +4,7 @@ lib/Tk/FileEntry.pm
 Makefile.PL
 MANIFEST
 README
+LICENSE
 t/00-load-Tk-FileEntry.t
 t/01-fileentry.t
 t/02-pod.t
