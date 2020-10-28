@@ -18,7 +18,7 @@ Revision history for Perl extension Tk::FileEntry.
     - added example to POD
 
 2.0  Tue Jul 29 21:41:00 2014
-    - pimped original version by moving it to the skelleton created by h2xs 1.23 with options -b 5.14.3 -XA -n Tk::FileEntry
+    - pimped original version by moving it to the skeleton created by h2xs 1.23 with options -b 5.14.3 -XA -n Tk::FileEntry
     - added Changes file
     - removed revision control version number stuff
     - removed print command for arguments

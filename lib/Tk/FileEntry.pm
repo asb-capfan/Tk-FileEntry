@@ -34,7 +34,7 @@ It features a L<Tk::Label>, L<Tk::Entry>, and a L<Tk::Button>.
 
 When the button is clicked, a dialog for choosing a file will show up.
 The path of the chosen file will be inserted into the entry widget.
-The label is intended as caption fot the entry widget.
+The label is intended as caption for the entry widget.
 
 This is useful if you want to provide a convenient way to select a
 file path.
