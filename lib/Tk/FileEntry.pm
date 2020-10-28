@@ -22,10 +22,10 @@ Tk::FileEntry - FileEntry widget with optional file selection box
     use Tk::FileEntry;
 
     $fileentry = $parent->FileEntry(
-				-filebitmap	=> BITMAP,
-				-command	=> CALLBACK,
-				-variable	=> SCALARREF,
-				);
+        -filebitmap	=> BITMAP,
+        -command	=> CALLBACK,
+        -variable	=> SCALARREF,
+	);
 
 =head1 DESCRIPTION
 
