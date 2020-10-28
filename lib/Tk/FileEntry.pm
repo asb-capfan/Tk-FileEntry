@@ -7,7 +7,7 @@ use Tk;
 use Tk::widgets qw/ Frame Derived Widget Label Entry Button /;
 use base qw/ Tk::Derived Tk::Frame /;
 
-our $VERSION = '2.3';
+our $VERSION = '2.4';
 
 Construct Tk::Widget 'FileEntry';
 
